@@ -1,0 +1,7 @@
+Name,Type,Location,Address
+Local-Loopback,Test,This PC,127.0.0.1
+Core-Router-Demo,Router,Surface Server Room,1.1.1.1
+DNS-Server-Demo,Server,Surface Server Room,8.8.8.8
+UG-Switch-L300-Demo,Switch,Underground Level 300,10.255.255.1
+UG-AP-L450-Demo,Wireless AP,Underground Level 450,10.255.255.2
+UPS-Refuge-Station-Demo,UPS,Underground Refuge Station,10.255.255.3
